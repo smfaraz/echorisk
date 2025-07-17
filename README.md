@@ -1,4 +1,4 @@
-# Business Sustainability Decision Support System (BSDSS)
+# EchoRisk: Business Sustainability Decision Support System (BSDSS)
 
 ## 🚀 Overview
 BSDSS is a **Streamlit-powered, AI-assisted financial analysis tool** that predicts the **sustainability risk of a business** using:
