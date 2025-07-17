@@ -1,7 +1,7 @@
 # EchoRisk: Business Sustainability Decision Support System (BSDSS)
 
 ## 🚀 Overview
-BSDSS is a **Streamlit-powered, AI-assisted financial analysis tool** that predicts the **sustainability risk of a business** using:
+EchoRisk is a **Streamlit-powered, AI-assisted financial analysis tool** that predicts the **sustainability risk of a business** using:
 - Live financial data (via `yfinance`)
 - Financial ratio analysis
 - News sentiment analysis (`FinBERT`)
@@ -41,7 +41,7 @@ BSDSS is a **Streamlit-powered, AI-assisted financial analysis tool** that predi
 ## 🚀 How to Run
 ```bash
 pip install -r requirements.txt
-streamlit run bsdss_app.py
+streamlit run app.py
 ```
 
 ---
